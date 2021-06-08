@@ -1,0 +1,36 @@
+.home .jennifer{
+    background-image: url('/images/jennifer.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+    color: red;
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.home img{
+    width: 100px;
+}
+.home a{
+    text-decoration: none;
+    color: green;
+}
+
+.home ul {
+    overflow: hidden;
+}
+
+.home li {
+    list-style: none;
+    margin: 10px 5px;
+    background-color: lightgreen;
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    float:right;
+}
+
+.home p{
+    font-size: 20px;
+}
